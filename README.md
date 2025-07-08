@@ -40,9 +40,12 @@ I usually like to introduce myself as a problem solver who primarily uses softwa
 
 #
 
-<!-- ### 📺 Latest YouTube Videos
 
-<!-- BEGIN YOUTUBE-CARDS -->
+### 🧰 Project Snippets
+
+<!-- ### 📺 Latest YouTube Videos -->
+
+<!-- BEGIN YOUTUBE-CARDS
 [![My Linux Ubuntu Setup for Software Development](https://ytcards.demolab.com/?id=T3sax7PB0vw&title=My+Linux+Ubuntu+Setup+for+Software+Development&lang=en&timestamp=1751899205&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1283 "My Linux Ubuntu Setup for Software Development")](https://www.youtube.com/watch?v=T3sax7PB0vw)
 [![I Overengineered 3 Buttons to Explain Software Architecture](https://ytcards.demolab.com/?id=Aw3_hOG3BzE&title=I+Overengineered+3+Buttons+to+Explain+Software+Architecture&lang=en&timestamp=1750868400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=851 "I Overengineered 3 Buttons to Explain Software Architecture")](https://www.youtube.com/watch?v=Aw3_hOG3BzE)
 [![Computer Melting](https://ytcards.demolab.com/?id=OAiLfS7Gx-g&title=Computer+Melting&lang=en&timestamp=1750462931&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=41 "Computer Melting")](https://www.youtube.com/shorts/OAiLfS7Gx-g)
@@ -51,9 +54,9 @@ I usually like to introduce myself as a problem solver who primarily uses softwa
 [![My Favorite Way to Learn a New Codebase](https://ytcards.demolab.com/?id=jqHXJ3O7WGw&title=My+Favorite+Way+to+Learn+a+New+Codebase&lang=en&timestamp=1749052814&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1096 "My Favorite Way to Learn a New Codebase")](https://www.youtube.com/watch?v=jqHXJ3O7WGw)
 <!-- END YOUTUBE-CARDS -->
 
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1) -->
+<!-- [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
 
-#
+# --> -->
 
 ### 📊 Stats
 
