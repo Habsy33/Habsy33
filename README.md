@@ -2,9 +2,9 @@
 
 # 🏄‍♂️ I'm Habeeb Oluyemo
 
-**`Digital Craftsman (Software Developer / Project Management)`**
+**`Software Developer`**
 
-I usually like to introduce myself as a problem solver who primarily uses software development tools to implement effective solutions and craft my own version of the digital world one step at a time. As a full-stack developer all of the coding projects on my profile are built from the ground up, from planning and designing all the way to solving real-life problems with code. I am someone who is constantly learning from others and in turn sharing my coding journey on sites like Linkedin: <a href="https://www.linkedin.com/in/habeeb-oluyemo-200414229/"> ,in the hopes of inspiring fellow up and coming developers.
+I usually like to introduce myself as a problem solver who primarily uses software development tools to implement effective solutions and craft my own version of the digital world one step at a time. As a full-stack developer all of the coding projects on my profile are built from the ground up, from planning and designing all the way to solving real-life problems with code. I am someone who is constantly learning from others and in turn sharing my coding journey on sites like <b>Linkedin:</b> <a href="https://www.linkedin.com/in/habeeb-oluyemo-200414229/"> in the hopes of inspiring fellow up and coming developers.
 
    <!-- <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
